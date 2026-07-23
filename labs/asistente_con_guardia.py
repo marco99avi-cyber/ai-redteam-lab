@@ -14,7 +14,7 @@ def preguntar(modelo, system, user):
     r = requests.post(url_api, json=payload)
     return r.json()["choices"][0]["message"]["content"]
 
-url_web = "https://example.com"
+url_web = "http://localhost:8000/web_2orden.txt"
 documento = requests.get(url_web).text
 resumen = preguntar(
     "llama-3.2-3b-instruct",
