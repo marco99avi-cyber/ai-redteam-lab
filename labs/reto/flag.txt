@@ -1,0 +1,1 @@
+FLAG{atajo_tomado_reward_hacking}
