@@ -2,7 +2,7 @@
 
 > **AI Red Teaming learning lab** — un cuaderno de laboratorio, con código y writeups, sobre cómo se atacan (y se defienden) los modelos de lenguaje. Aprendizaje incremental, experimentos propios y reflexión honesta sobre los resultados.
 
-Empecé este verano prácticamente desde cero (poca programación, cero ciberseguridad) con un objetivo: convertirme en referente en **AI Red Teaming**. Este repo es el registro público de ese camino, sesión a sesión. No pretende impresionar por la ingeniería del código —todavía es sencillo—, sino demostrar **cómo pienso como atacante** y cómo documento lo que aprendo.
+Empecé este verano prácticamente desde cero (poca programación, cero ciberseguridad). Este repo es el registro público de ese aprendizaje en **AI Red Teaming**, sesión a sesión. No pretende impresionar por la ingeniería del código —todavía es sencillo—, sino mostrar **cómo pienso como atacante** y cómo documento lo que aprendo.
 
 Todo se ejecuta en local contra modelos servidos por [LM Studio](https://lmstudio.ai/) (API compatible con OpenAI). Todos los ataques son contra mis propios laboratorios de juguete. **Cero ataques a sistemas reales o ajenos.**
 
